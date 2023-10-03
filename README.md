@@ -1,3 +1,5 @@
+### Os dados foram tratados no Banco de Dados Microsoft SQL Server, após a análise criei as planilhas e importei os dados no POWERBI.
+
 ### Resumo das Questões SQL:
 
 1. **Quebra por Gênero dos Funcionários:**
