@@ -1,3 +1,9 @@
+# HR - Human Resources
+
+## Dashboard 1 -Distribuição de Genêro / Presencial vs Remoto / Mudanças de Funcionários / Estados dos Funcionários / Distribuição de Raça ![image](https://github.com/MatheusTorquete/Project-Human-Resources/assets/94683422/332ae5f7-163a-4bd7-881f-f4ead4bc7756)
+
+## Dashboard 2 -Distribuição de Genero por Departamento / Distribuição Departamentos / Idade Funcinoarios / Idade Funcionarios por Gênero ![image](https://github.com/MatheusTorquete/Project-Human-Resources/assets/94683422/3c83c25b-0ea5-44c9-bdd1-7f8f2288009a)
+
 ### Os dados foram tratados no Banco de Dados Microsoft SQL Server, após a análise criei as planilhas e importei os dados no POWERBI.
 
 ### Resumo das Questões SQL:
